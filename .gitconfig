@@ -1,0 +1,23 @@
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+
+[alias]
+  c = commit -m
+  ca = commit -a -m
+  co = checkout
+  a = add
+  di = diff
+  dic = diff --cached
+  pl = pull
+  ps = push
+  st = status
+  plre = pull --rebase
+
+[user]
+  name = Mike Wadhera
+  email = mikewadhera@gmail.com
+
+[github]
+  user = mikewadhera
